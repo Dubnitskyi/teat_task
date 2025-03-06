@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Файли середовища (якщо використовуєте virtualenv або інше середовище)
+venv/
+env/
+
+# Лог файли
+*.log
+
+# Файли конфігурації IDE
+.vscode/
+.idea/
+
+# Файли кешу
+*.cache
+*.swp
+
+# Якщо ви використовуєте Jupyter
+.ipynb_checkpoints/
+
+# JSON файли з даними
+*.json
